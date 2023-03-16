@@ -1,7 +1,6 @@
 from flask import Flask
 import os
 from datetime import datetime as dt 
-from localWorks import LocalOrigin as lo
 from flask import jsonify
 
 app = Flask(__name__)
