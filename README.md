@@ -1,32 +1,9 @@
 
-# adfdfdfdff
+# Challenge #1 - Poc
 
+## [Objective]()
 
--a
-    - - a
-        a
-            a
-                a
-
-            fdf
-   dfdf
-
-sdsd
-dsds
-sdsd
-
-# sdsd
-## dsds
-###  sdsd
-
-- [adfdfdfdfd]()
-  
-  sdsdsdsdsdsd
-
-
-  
-
-- [sdsd](#sdsd)
-- [dsds](#dsds)
-- [sdsd](#sdsd-1)
-- [df](#df)
+     1. The current project aims to demonstrate the performance of a complete, end-to-end, pipeline, wich can be divided into 6 main steps:
+        
+        1. 
+     
